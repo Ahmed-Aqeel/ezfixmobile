@@ -1,3 +1,5 @@
+import DescCard from "./DescCard";
+import { schedules } from "./data";
 const Problems = () => {
   return (
     <>
@@ -29,6 +31,7 @@ const Problems = () => {
                   functional display.
                 </p>
               </div>
+              {/* <DescCard card={schedules[0]} /> */}
               <div class="desc_card">
                 <h4 class="prob_title">
                   <i class="fa-solid fa-angle-down fa-xl"></i>Back Panel

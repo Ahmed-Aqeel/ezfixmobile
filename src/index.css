@@ -40,7 +40,7 @@ a:hover {
 .front_img {
   width: 40%;
   display: flex;
-  justify-content: end;
+  justify-content: flex-end;
   /* background-blend-mode: mul;
   background-color: rgb(241, 95, 94); */
 }

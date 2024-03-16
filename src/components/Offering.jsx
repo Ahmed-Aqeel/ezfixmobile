@@ -1,8 +1,8 @@
-import { repairs } from "./data";
-const Offering = (id, img, title, text) => {
+const Offering = (card) => {
+  const { img, title, text } = card;
   return (
     <>
-      <div key={id} class="card">
+      <div class="card">
         <div class="plans">
           <img class="" src={img} alt={title} />
         </div>

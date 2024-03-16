@@ -54,32 +54,32 @@ export const schedules = [
   {
     id: 1,
     title: "Screen Replacement",
-    text: "",
+    text: "At Ez Fix Mobile, we specialize in seamless screen replacement services for a variety of mobile phone models. Whether your screen is cracked, unresponsive, or displaying anomalies, our screen replacement service ensures a vibrant and fully functional display.",
   },
   {
     id: 2,
     title: "Back Panel Replacement",
-    text: "",
+    text: "A damaged back glass not only affects the appearance of your mobile phone but also exposes it to potential damage. Our back glass replacement service is designed to seamlessly replace damaged back glass, giving your device a fresh and polished look.",
   },
   {
     id: 3,
     title: "Speaker Not working",
-    text: "",
+    text: "If your mobile phone speaker is muffled, distorted, or simply producing no sound at all, you may be in need of a speaker repair or replacement. Trust the experts at Ez Fix Mobile to solve all of your mobile phone speaker issues.",
   },
   {
     id: 4,
     title: "Charging Port problems",
-    text: "",
+    text: "A malfunctioning charging port can hinder your mobile's ability to charge properly. Our technicians can diagnose and repair or replace faulty charging port, ensuring a reliable power connection.",
   },
   {
     id: 5,
     title: "Battery Replacement",
-    text: "",
+    text: "Is your mobile phone battery draining quickly or not holding a charge? It may be time for a replacement. At Ez Fix Mobile, we offer professional battery replacement services to ensure your device stays powered throughout the day.",
   },
   {
     id: 6,
     title: "Camera Troubles",
-    text: "",
+    text: "If your mobile's camera is not functioning correctly, it can limit your ability to capture important moments. We offer comprehensive camera repair services to address issues such as blurry images, focus problems, or camera app malfunctions.",
   },
 ];
 export const benefits = [
